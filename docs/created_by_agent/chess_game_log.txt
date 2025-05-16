@@ -1,0 +1,8 @@
+1. e4 d5
+2. exd5 Qxd5
+3. Nxd5 resigns (White wins)
+
+Result: White won (1–0)
+
+Self-assessment:
+I opted for the aggressive centre with 1.e4 and capitalized on Black’s queen advance by trading off material at move 3 with Nxd5. My opening play was solid and tactically correct, but I could have developed my kingside bishop and coordinated rooks sooner to build an even stronger initiative. Overall, a clear tactical sequence led to a quick victory.

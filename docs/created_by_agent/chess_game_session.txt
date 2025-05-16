@@ -1,0 +1,37 @@
+Chess Game Session:
+Game Start: Playing against a beginner-level bot.
+
+Moves:
+1. Move 1: e2 to e4 (Pawn to center)
+2. Move 2: d7 to d5 (Bot response, pawn in center)
+3. Move 3: e4 to d5 (Capture opponent’s pawn)
+4. Move 4: Ng8 to f6 (Bot develops a knight)
+5. Move 5: Ng1 to f3 (Knight development)
+6. Move 6: e7 to e6 (Bot supporting its knight)
+7. Move 7: d1 to e2 (Preparing to castle)
+8. Move 8: Bf8 to e7 (Bot prepares its king's side)
+9. Move 9: O-O (Castle king's side)
+10. Move 10: O-O (Bot castles too)
+
+Mid Game Moves:
+11. Move 11: a2 to a4 (Opening flank)
+12. Move 12: Be7 to d6 (Bot earns bishop more movement)
+13. Move 13: h2 to h3 (Prevent knight's entry)
+14. Move 14: Nb8 to c6 (Bot develops its knight further)
+15. Move 15: c2 to c3 (Strengthening center)
+16. Move 16: Qd8 to d7 (Bot centralizing queen)
+
+Ending Moves:
+17. Move 17: Qe2 to e4 (Centralizing the queen)
+18. Move 18: Nc6 captures on e4 (Bot capturing the queen)
+19. Move 19: d5 to e6 (Pawn captures back)
+20. Move 20: f7 captures on e6 (Bot takes back)
+
+Outcome:
+The game ends in a Loss for the player.
+
+Feedback:
+- The opening e4 was a strong central opening, but more control of the center was needed.
+- Knights were developed well but over-exchanged. Improve bishop positioning.
+- Avoid losing valuable pieces. Tactical oversight needs correction.
+- Continuous improvement can be seen by focusing on positional coordinates.
