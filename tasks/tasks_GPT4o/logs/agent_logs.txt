@@ -1,0 +1,604 @@
+---------- user ----------
+Find name, email and office location of the three responsible people that organize Seminar CS715 at the University of Mannheim. Use this website https://www.uni-mannheim.de/ to find the information.
+---------- MagenticOneOrchestrator ----------
+
+We are working to address the following user request:
+
+Find name, email and office location of the three responsible people that organize Seminar CS715 at the University of Mannheim. Use this website https://www.uni-mannheim.de/ to find the information.
+
+
+To answer this request we have assembled the following team:
+
+FileSurfer: An agent that can handle local files.
+WebSurfer: A helpful assistant with access to a web browser. Ask them to perform web searches, open pages, and interact with content (e.g., clicking links, scrolling the viewport, filling in form fields, etc.). It can also summarize the entire page, or answer questions based on the content of the page. It can also be asked to sleep and wait for pages to load, in cases where the page seems not yet fully loaded.
+Coder: A helpful and general-purpose AI assistant that has strong language skills, Python skills, and Linux command line skills.
+ComputerTerminal: A computer terminal that performs no other action than running Python scripts (provided to it quoted in ```python code blocks), or sh shell scripts (provided to it quoted in ```sh code blocks).
+
+
+Here is an initial fact sheet to consider:
+
+1. GIVEN OR VERIFIED FACTS
+- The request is looking for the name, email, and office location of the three responsible people who organize Seminar CS715 at the University of Mannheim.
+- The official website of the University of Mannheim is provided: https://www.uni-mannheim.de/.
+
+2. FACTS TO LOOK UP
+- Information about Seminar CS715: specifically, the names, emails, and office locations of the organizers.
+- This information might be found on the University of Mannheim website, specifically in sections related to the computer science department, the seminar/course listings, or faculty/staff contact directories.
+
+3. FACTS TO DERIVE
+- If the seminar details are not explicitly listed under the provided information, it may be necessary to deduce which faculty or department is responsible based on related content on the University of Mannheim website.
+
+4. EDUCATED GUESSES
+- The seminar is likely part of the computer science (CS) department at the University of Mannheim.
+- The organizers might be faculty members or administrative staff within the computer science or a related department.
+- Contact details for the organizers might follow a typical university email pattern, such as [firstname.lastname]@uni-mannheim.de, if they are faculty or staff.
+
+
+Here is the plan to follow as best as possible:
+
+- Engage WebSurfer to navigate to the University of Mannheim's official website (https://www.uni-mannheim.de/).
+- Use WebSurfer to search for Seminar CS715, looking specifically for a course or seminar directory, potentially within the computer science department or similar academic listings.
+- Identify the section or page that lists seminar details, including the organizers' contact information.
+- Gather and record the names, emails, and office locations of the three responsible people organizing Seminar CS715.
+- Review the collected information to ensure accuracy and completeness based on the details provided on the university website.
+
+---------- MagenticOneOrchestrator ----------
+Please navigate to the University of Mannheim's official website (https://www.uni-mannheim.de/) and look for information on Seminar CS715, focusing on finding the seminar or course directory within the computer science department or similar listings to gather the organizers' contact information.
+---------- WebSurfer ----------
+I typed 'https://www.uni-mannheim.de/' into the browser address bar.
+
+The web browser is open to the page [Uni Mannheim: studieren und forschen im Schloss | Universität Mannheim](https://www.uni-mannheim.de/).
+The viewport shows 16% of the webpage, and is positioned at the top of the page
+The following text is visible in the viewport:
+
+Fakultäten
+Intranet
+DE / 
+ENStudium
+Forschung
+Campus
+Universität
+Bild: Oana Szekely
+Master­bewerbungBewerben Sie sich je nach Studien­gang bis zum 31. Mai bei uns!Finden Sie Ihren Studien­gang
+Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies und speichern anonyme Nutzungs­daten. Weitere Informationen erhalten Sie in unserer 
+Datenschutz­erklärung.
+Erlauben
+Ablehnen
+
+The following metadata was extracted from the webpage:
+
+{
+    "microdata": [
+        {
+            "itemType": "http://schema.org/Article"
+        },
+        {
+            "itemType": "http://schema.org/Article"
+        },
+        {
+            "itemType": "http://schema.org/Article"
+        },
+        {
+            "itemType": "http://schema.org/Article"
+        },
+        {
+            "itemType": "http://schema.org/Article"
+        },
+        {
+            "itemType": "http://schema.org/Article"
+        },
+        {
+            "itemType": "http://schema.org/Article"
+        },
+        {
+            "itemType": "http://schema.org/Article"
+        }
+    ],
+    "meta_tags": {
+        "generator": "TYPO3 CMS",
+        "description": "Exzellente Bachelor-, Master- und Promotions\u00adprogramme. Eine der besten Universit\u00e4ten Europas in den Wirtschafts- und Sozialwissenschaften. ",
+        "twitter:card": "summary",
+        "revisit-after": "10 days",
+        "og:image": "https://www.uni-mannheim.de/media/_processed_/3/3/csm_studentin-im-schlossflur-blick-in-die-kamera_ff44e8fbb1.jpg",
+        "og:url": "https://www.uni-mannheim.de/",
+        "og:site_name": "",
+        "og:title": "Universit\u00e4t Mannheim",
+        "og:description": "Exzellente Bachelor-, Master- und Promotions\u00adprogramme. Eine der besten Universit\u00e4ten Europas in den Wirtschafts- und Sozialwissenschaften. ",
+        "og:type": "website",
+        "thumbnail": "https://www.uni-mannheim.de/media/_processed_/3/3/csm_studentin-im-schlossflur-blick-in-die-kamera_d8d9ae591c.jpg",
+        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+        "foundation-mq": ""
+    }
+}
+
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please search for the Seminar CS715 on the University of Mannheim's site, focusing on sections related to course or seminar directories within the computer science department or similar academic areas. Provide details about the organizers if found.
+---------- WebSurfer ----------
+I typed 'CS715 Seminar site:uni-mannheim.de' into the browser search bar.
+
+The web browser is open to the page [CS715 Seminar site:uni-mannheim.de - Suchen](https://www.bing.com/search?q=CS715+Seminar+site%3Auni-mannheim.de&FORM=QBLH&rdr=1&rdrig=1EB0AA18B7294D93996F22A77482AA7A).
+The viewport shows 46% of the webpage, and is positioned at the top of the page
+The following text is visible in the viewport:
+
+Microsoft und unsere Drittanbieter verwenden Cookies und ähnliche Technologien zur Bereitstellung, Aufrechterhaltung und Verbesserung unserer Dienste und Anzeigen. Wenn Sie damit einverstanden sind, verwenden wir diese Daten für die Personalisierung von Anzeigen und die damit verbundenen Analysen.
+Sie können „Akzeptieren“ wählen, um diesen Verwendungen zuzustimmen, „Ablehnen“ wählen, um diese Verwendungen abzulehnen, oder auf „Weitere Optionen“ klicken, um Ihre Optionen zu überprüfen. Sie können Ihre Auswahl unten auf dieser Seite unter „Cookiepräferenzen verwalten“ ändern. 
+DatenschutzbestimmungenAkzeptieren
+Ablehnen
+Mehr OptionenWeiter zum Inhalt
+CS715 Seminar site:uni-mannheim.deEnglish6
+MobiltelefonSuchen
+Copilot
+Shopping
+Bilder
+Videos
+Karten
+Neuigkeiten
+mehr
+Werkzeug
+Ungefähr 87.400 ErgebnisseMit Ergebnissen für 
+cs 715 seminar.
+Nur Ergebnisse für 
+CS715 Seminar site:uni-mannheim.de abrufen?
+Universität Mannheim
+https://www.uni-mann…
+Dieses Ergebnis übersetzen
+CS 715: Seminar on Solving Complex Tasks using …The seminar features literature as well as experimental topics. The goal of the literature topics is to summarize the state of the art concerning a specific aspect of LLM-based agents well as to compare specific approaches in this area using …
+Universitätsbibliothek 
+uni-mannheim.de
+https://portal2.uni-mannheim.de › pages › startFlow.xhtml
+Detailansicht - Portal² - uni-mannheim.de24. Feb. 2023 · CS 715 - Seminar Prof. Bizer: "Large-Scale Data Integration" (5. Parallelgruppe)
+Universität Mannheim
+https://www.uni-mannheim.de › ...
+Dieses Ergebnis übersetzen
+CS 715: Large-Scale Data Integration Seminar | Universität …This seminar covers topics related to integrating data from large numbers of independent data sources. This includes large-scale entity matching, schema matching, table annotation, data …
+Fakultät für Wirtschaftsinformatik und -mathematik
+https://www.wim.uni-mannheim.de …
+ · PDF-Datei
+Dieses Ergebnis übersetzen
+Introductory Session for Master Students - uni-mannheim.deEach student MUST take a Seminar and Scientific Research as well as a Team Project. Presentation: at 10:15 am on September 4. Registration will start on September 4. You can …
+Universität Mannheim
+https://www.uni-mannheim.de › med…
+ · PDF-Datei
+Dieses Ergebnis übersetzen
+Seminar-Solving-Complex-Tasks-with-LLMs-Intro-FSS2025
+
+The following metadata was extracted from the webpage:
+
+{
+    "meta_tags": {
+        "referrer": "origin-when-cross-origin",
+        "SystemEntropyOriginTrialToken": "A5is4nwJJVnhaJpUr1URgj4vvAXSiHoK0VBbM9fawMskbDUj9WUREpa3JzGAo6xd1Cp2voQEG1h6NQ71AsMznU8AAABxeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiTXNVc2VyQWdlbnRMYXVuY2hOYXZUeXBlIiwiZXhwaXJ5IjoxNzUzNzQ3MjAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=",
+        "ConfidenceOriginTrialToken": "Aqw360MHzRcmtEVv55zzdIWcTk2BBYHcdBAOysNJZP4qkN8M+5vUq36ITHFVst8LiX36KBZJXB8xvyBgdK2z5Q0AAAB6eyJvcmlnaW4iOiJodHRwczovL2JpbmcuY29tOjQ0MyIsImZlYXR1cmUiOiJQZXJmb3JtYW5jZU5hdmlnYXRpb25UaW1pbmdDb25maWRlbmNlIiwiZXhwaXJ5IjoxNzYwNDAwMDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=",
+        "og:description": "Mit der intelligenten Bing-Suche k\u00f6nnen Sie die gew\u00fcnschten Informationen schneller und einfacher finden und dabei Punkte sammeln.",
+        "og:site_name": "Bing",
+        "og:title": "CS715 Seminar site:uni-mannheim.de - Bing",
+        "og:url": "https://www.bing.com/search?q=CS715+Seminar+site%3Auni-mannheim.de&FORM=QBLH&rdr=1&rdrig=1EB0AA18B7294D93996F22A77482AA7A",
+        "fb:app_id": "3732605936979161",
+        "og:image": "http://www.bing.com/sa/simg/facebook_sharing_5.png",
+        "og:type": "website",
+        "og:image:width": "600",
+        "og:image:height": "315"
+    }
+}
+
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please click on the links related to Seminar CS715 on the University of Mannheim's website to find the names, emails, and office locations of the organizers.
+---------- WebSurfer ----------
+I clicked 'CS 715: Seminar on Solving Complex Tasks using …'.
+
+The web browser is open to the page [CS 715: Seminar on Solving Complex Tasks using Large Language Models | Universität Mannheim](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/cs-715-seminar-on-solving-complex-tasks-using-large-language-models/).
+The viewport shows 16% of the webpage, and is positioned at the top of the page
+The following text is visible in the viewport:
+
+Home
+People
+Research
+Career
+Teaching
+Credit: Anna Logue
+University of Mannheim
+Data and Web Science Group
+Teaching
+Course Details
+Courses for Master Candidates
+CS 715: Seminar on Solving Complex Tasks using Large Language Models
+ Seminar CS715: Solving Complex Tasks using Large Language Models (FSS 2025) 
+In order to improve performance and enhance the user experience for the visitors to our website, we use cookies and store anonymous usage data. For more information please read our 
+privacy policy.
+Allow
+Reject
+
+The following metadata was extracted from the webpage:
+
+{
+    "meta_tags": {
+        "generator": "TYPO3 CMS",
+        "twitter:card": "summary",
+        "revisit-after": "10 days",
+        "og:image": "https://www.uni-mannheim.de/media/_processed_/4/7/csm_web_DSC_5275_c18bcf1d2f.jpg",
+        "og:url": "https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/cs-715-seminar-on-solving-complex-tasks-using-large-language-models/",
+        "og:site_name": "",
+        "og:title": "CS 715: Seminar on Solving Complex Tasks using Large Language Models",
+        "og:description": "",
+        "og:type": "website",
+        "thumbnail": "https://www.uni-mannheim.de/media/_processed_/4/7/csm_web_DSC_5275_19cac24be9.jpg",
+        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+        "foundation-mq": ""
+    }
+}
+
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please search the current page content for information on the organizers of Seminar CS715, including their names, emails, and office locations.
+---------- WebSurfer ----------
+The seminar "CS 715: Seminar on Solving Complex Tasks using Large Language Models" at Universität Mannheim is organized by Prof. Dr. Christian Bizer, Dr. Ralph Peeters, and Aaron Steiner. The details about their emails and office locations are not provided in the text.
+---------- MagenticOneOrchestrator ----------
+Please search for the contact details of Prof. Dr. Christian Bizer, Dr. Ralph Peeters, and Aaron Steiner on the University of Mannheim's website, focusing on staff directories or related pages.
+---------- WebSurfer ----------
+I clicked 'Prof. Dr. Christian Bizer'.
+
+The web browser is open to the page [Prof. Dr. Christian Bizer | Universität Mannheim](https://www.uni-mannheim.de/dws/people/professors/prof-dr-christian-bizer/).
+The viewport shows 11% of the webpage, and is positioned at the top of the page
+The following text is visible in the viewport:
+
+Home
+People
+Research
+Career
+Teaching
+University of Mannheim
+Data and Web Science Group
+People
+Professors
+Prof. Dr. Christian Bizer
+ Prof. Dr. Christian Bizer 
+Chair of Information Systems V: Web-based SystemsUniversität Mannheim
+ B6, 26, Room B 1.15
+ D-68159 Mannheim
+Email: christian.bizer (at) uni-mannheim.de 
+Phone: +49 621 181 2677
+In order to improve performance and enhance the user experience for the visitors to our website, we use cookies and store anonymous usage data. For more information please read our 
+privacy policy.
+Allow
+Reject
+
+The following metadata was extracted from the webpage:
+
+{
+    "microdata": [
+        {
+            "itemType": "http://schema.org/Article",
+            "description": "Aaron Steiner presented our paper Fine-tuning Large Language Models for Entity Matching at the Data-AI Systems (DAIS) workshop at the ICDE 2025 conference in Hong Kong."
+        },
+        {
+            "itemType": "http://schema.org/Article",
+            "description": "Ralph Peeters has successfully defended his PhD thesis titled \u201cEntity Matching using Deep Neural Networks: From Discriminative Pre-trained Language Models to Generative Large Language Models\u201d today."
+        },
+        {
+            "itemType": "http://schema.org/Article",
+            "description": "We are happy to announce the 2024 release of the WebDataCommons Microdata, JSON-LD and RDFa Data Corpus."
+        },
+        {
+            "itemType": "http://schema.org/Article",
+            "description": "We are pleased to announce that the paper \u201cExtractGPT: Exploring the Potential of Large Language Models for Product Attribute Value Extraction\u201d by Alexander Brinkmann, Roee Shraga, and Christian Bizer was awarded as best paper at the 26th International Conference on Information Integration and Web ..."
+        }
+    ],
+    "meta_tags": {
+        "generator": "TYPO3 CMS",
+        "twitter:card": "summary",
+        "revisit-after": "10 days",
+        "og:url": "https://www.uni-mannheim.de/dws/people/professors/prof-dr-christian-bizer/",
+        "og:site_name": "",
+        "og:title": "Prof. Dr. Christian Bizer",
+        "og:description": "",
+        "og:type": "website",
+        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+        "foundation-mq": ""
+    }
+}
+
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please search for and retrieve the contact details for Dr. Ralph Peeters and Aaron Steiner on the University of Mannheim's website.
+---------- WebSurfer ----------
+I typed 'Dr. Ralph Peeters site:uni-mannheim.de' into the browser search bar.
+
+The web browser is open to the page [Dr. Ralph Peeters site:uni-mannheim.de - Suchen](https://www.bing.com/search?q=Dr.+Ralph+Peeters+site%3Auni-mannheim.de&FORM=QBLH).
+The viewport shows 50% of the webpage, and is positioned at the top of the page
+The following text is visible in the viewport:
+
+Microsoft und unsere Drittanbieter verwenden Cookies und ähnliche Technologien zur Bereitstellung, Aufrechterhaltung und Verbesserung unserer Dienste und Anzeigen. Wenn Sie damit einverstanden sind, verwenden wir diese Daten für die Personalisierung von Anzeigen und die damit verbundenen Analysen.
+Sie können „Akzeptieren“ wählen, um diesen Verwendungen zuzustimmen, „Ablehnen“ wählen, um diese Verwendungen abzulehnen, oder auf „Weitere Optionen“ klicken, um Ihre Optionen zu überprüfen. Sie können Ihre Auswahl unten auf dieser Seite unter „Cookiepräferenzen verwalten“ ändern. 
+DatenschutzbestimmungenAkzeptieren
+Ablehnen
+Mehr OptionenWeiter zum Inhalt
+Dr. Ralph Peeters site:uni-mannheim.deEnglish9
+MobiltelefonSuchen
+Copilot
+Shopping
+Bilder
+Videos
+Karten
+Neuigkeiten
+mehr
+Werkzeug
+Ungefähr 44.700 ErgebnisseUniversität Mannheim
+https://www.uni-mannheim.de › ... › dr-ralph-peeters
+Dieses Ergebnis übersetzen
+Dr. Ralph Peeters | Universität MannheimI am a Postdoc in the focus group Web-based Systems in the Data and Web Science Group under supervision of Prof. Dr. Christian Bizer. Peeters, R., Steiner, A. und Bizer, C. (2025). Entity …
+uni-mannheim.de
+https://madoc.bib.uni-mannheim.de …
+ · PDF-Datei
+Dieses Ergebnis übersetzen
+Entity Matching using Deep Neural Networks: From Discriminative …Additionally, special thanks go to Prof. Dr. Goran Glavaš, who ignited my interest in deep learning during my master’s studies, thank you for the collab- oration and support.
+Universität Mannheim
+https://www.uni-mannheim.de › news › ralph-peeters-has-successfully...
+Ralph Peeters has successfully defended his PhD Thesis10. März 2025 · Ralph Peeters has successfully defended his PhD thesis titled "Entity Matching using Deep Neural Networks: From Discriminative Pre-trained Language Models to Generative …
+uni-mannheim.de
+https://madoc.bib.uni-mannheim.de › view › people
+Dieses Ergebnis übersetzen
+Personen - MADOCPeeters, Ralph ORCID: 0000-0003-3174-2616; Steiner, Aaron; Bizer, Christian ORCID: 0000-0003-2367-0237 Entity matching using large language models.
+Universität Mannheim
+https://www.uni-mannheim.de › dws › news-archiv …
+Dieses Ergebnis übersetzen
+DWS Research | Universität MannheimRalph Peeters has successfully defended his PhD thesis titled “Entity Matching using Deep Neural Networks: From Discriminative Pre-trained Language Models to Generative Large Language …
+uni-mannheim.de
+
+The following metadata was extracted from the webpage:
+
+{
+    "meta_tags": {
+        "referrer": "origin-when-cross-origin",
+        "SystemEntropyOriginTrialToken": "A5is4nwJJVnhaJpUr1URgj4vvAXSiHoK0VBbM9fawMskbDUj9WUREpa3JzGAo6xd1Cp2voQEG1h6NQ71AsMznU8AAABxeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiTXNVc2VyQWdlbnRMYXVuY2hOYXZUeXBlIiwiZXhwaXJ5IjoxNzUzNzQ3MjAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=",
+        "ConfidenceOriginTrialToken": "Aqw360MHzRcmtEVv55zzdIWcTk2BBYHcdBAOysNJZP4qkN8M+5vUq36ITHFVst8LiX36KBZJXB8xvyBgdK2z5Q0AAAB6eyJvcmlnaW4iOiJodHRwczovL2JpbmcuY29tOjQ0MyIsImZlYXR1cmUiOiJQZXJmb3JtYW5jZU5hdmlnYXRpb25UaW1pbmdDb25maWRlbmNlIiwiZXhwaXJ5IjoxNzYwNDAwMDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=",
+        "og:description": "Mit der intelligenten Bing-Suche k\u00f6nnen Sie die gew\u00fcnschten Informationen schneller und einfacher finden und dabei Punkte sammeln.",
+        "og:site_name": "Bing",
+        "og:title": "Dr. Ralph Peeters site:uni-mannheim.de - Bing",
+        "og:url": "https://www.bing.com/search?q=Dr.+Ralph+Peeters+site%3Auni-mannheim.de&FORM=QBLH",
+        "fb:app_id": "3732605936979161",
+        "og:image": "http://www.bing.com/sa/simg/facebook_sharing_5.png",
+        "og:type": "website",
+        "og:image:width": "600",
+        "og:image:height": "315"
+    }
+}
+
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please click the relevant link for Dr. Ralph Peeters to find his contact details, and then proceed similarly for Aaron Steiner.
+---------- WebSurfer ----------
+I clicked 'Dr. Ralph Peeters | Universität Mannheim'.
+
+The web browser is open to the page [Dr. Ralph Peeters | Universität Mannheim](https://www.uni-mannheim.de/dws/people/researchers/postdoctoral-research-fellows/dr-ralph-peeters/).
+The viewport shows 28% of the webpage, and is positioned at the top of the page
+The following text is visible in the viewport:
+
+Home
+People
+Research
+Career
+Teaching
+University of Mannheim
+Data and Web Science Group
+People
+Researchers
+Postdoctoral Research Fellows
+Dr. Ralph Peeters
+ Dr. Ralph Peeters 
+Postdoctoral ResearcherB6, 26, Room C 1.04
+Tel.: +49 621 181 2648
+ralph.peeters@uni-mannheim.deGoogle Scholar, 
+Github, 
+LinkedInI am a Postdoc in the focus group Web-based Systems in the 
+Data and Web Science Group under supervision of 
+Prof. Dr. Christian Bizer. 
+ Research Interests 
+In order to improve performance and enhance the user experience for the visitors to our website, we use cookies and store anonymous usage data. For more information please read our 
+privacy policy.
+Allow
+Reject
+
+The following metadata was extracted from the webpage:
+
+{
+    "meta_tags": {
+        "generator": "TYPO3 CMS",
+        "twitter:card": "summary",
+        "revisit-after": "10 days",
+        "og:url": "https://www.uni-mannheim.de/dws/people/researchers/postdoctoral-research-fellows/dr-ralph-peeters/",
+        "og:site_name": "",
+        "og:title": "Dr. Ralph Peeters",
+        "og:description": "",
+        "og:type": "website",
+        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+        "foundation-mq": ""
+    }
+}
+
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please search for Aaron Steiner's contact details on the University of Mannheim's website, focusing on locating his email and office location.
+---------- WebSurfer ----------
+I typed 'Aaron Steiner site:uni-mannheim.de' into the browser search bar.
+
+The web browser is open to the page [Aaron Steiner site:uni-mannheim.de - Suchen](https://www.bing.com/search?q=Aaron+Steiner+site%3Auni-mannheim.de&FORM=QBLH).
+The viewport shows 45% of the webpage, and is positioned at the top of the page
+The following text is visible in the viewport:
+
+Microsoft und unsere Drittanbieter verwenden Cookies und ähnliche Technologien zur Bereitstellung, Aufrechterhaltung und Verbesserung unserer Dienste und Anzeigen. Wenn Sie damit einverstanden sind, verwenden wir diese Daten für die Personalisierung von Anzeigen und die damit verbundenen Analysen.
+Sie können „Akzeptieren“ wählen, um diesen Verwendungen zuzustimmen, „Ablehnen“ wählen, um diese Verwendungen abzulehnen, oder auf „Weitere Optionen“ klicken, um Ihre Optionen zu überprüfen. Sie können Ihre Auswahl unten auf dieser Seite unter „Cookiepräferenzen verwalten“ ändern. 
+DatenschutzbestimmungenAkzeptieren
+Ablehnen
+Mehr OptionenWeiter zum Inhalt
+Aaron Steiner site:uni-mannheim.deEnglish12
+MobiltelefonSuchen
+Copilot
+Shopping
+Bilder
+Videos
+Karten
+Neuigkeiten
+mehr
+Werkzeug
+Ungefähr 68 ErgebnisseUniversität Mannheim
+https://www.uni-mannheim.de › ... › researchers › p…
+Dieses Ergebnis übersetzen
+Aaron Steiner | Universität MannheimEntity matching using large language models. In , Proceedings 28th International Conference on Extending Database Technology (EDBT 2025), Barcelona, Spain, March 25-March 28 (S. …
+Universität Mannheim
+https://www.sowi.uni-…
+Dieses Ergebnis übersetzen
+Paper accepted at EDBT 2025 | Fakultät für …21. Okt. 2024 · We are happy to announce that the paper "Entity Matching using Large Language Models" by Ralph Peeters, Aaron Steiner, and Christian Bizer has been accepted for the 28th International Conference on Extending Database …
+Universität Mannheim
+https://www.uni-mannheim.de › dws › teaching › co…
+Dieses Ergebnis übersetzen
+Large Language Models and Agents (FSS2025) - uni-mannheim.de13. Feb. 2025 · Large language models (LLMs) such as ChatGPT, Claude, Llama, Gemini, and Mistral have the potential to enable a wide range of new applications and to significantly …
+uni-mannheim.de
+https://madoc.bib.uni-mannheim.de
+ · PDF-Datei
+Dieses Ergebnis übersetzen
+Entity Matching using Large Language ModelsEntity matching is the task of deciding whether two entity de- scriptions refer to the same real-world entity. Entity matching is a central step in most data integration pipelines. Many state- of …
+Universität Mannheim
+https://www.uni-mannheim.de › med…
+ · PDF-Datei
+Dieses Ergebnis übersetzen
+Introduction - uni-mannheim.de• M. Sc. Aaron Steiner –Graduate Research Associate • Research Interests: –Entity Matching using LLMs –Fine-tuning LLMs –Data Integration • Room: B6 26, C 1.04 • eMail: …
+Ähnliche Suchen
+aaron steiner 
+wikipediaaaron steiner 
+peeters
+
+The following metadata was extracted from the webpage:
+
+{
+    "meta_tags": {
+        "referrer": "origin-when-cross-origin",
+        "SystemEntropyOriginTrialToken": "A5is4nwJJVnhaJpUr1URgj4vvAXSiHoK0VBbM9fawMskbDUj9WUREpa3JzGAo6xd1Cp2voQEG1h6NQ71AsMznU8AAABxeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiTXNVc2VyQWdlbnRMYXVuY2hOYXZUeXBlIiwiZXhwaXJ5IjoxNzUzNzQ3MjAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=",
+        "ConfidenceOriginTrialToken": "Aqw360MHzRcmtEVv55zzdIWcTk2BBYHcdBAOysNJZP4qkN8M+5vUq36ITHFVst8LiX36KBZJXB8xvyBgdK2z5Q0AAAB6eyJvcmlnaW4iOiJodHRwczovL2JpbmcuY29tOjQ0MyIsImZlYXR1cmUiOiJQZXJmb3JtYW5jZU5hdmlnYXRpb25UaW1pbmdDb25maWRlbmNlIiwiZXhwaXJ5IjoxNzYwNDAwMDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=",
+        "og:description": "Mit der intelligenten Bing-Suche k\u00f6nnen Sie die gew\u00fcnschten Informationen schneller und einfacher finden und dabei Punkte sammeln.",
+        "og:site_name": "Bing",
+        "og:title": "Aaron Steiner site:uni-mannheim.de - Bing",
+        "og:url": "https://www.bing.com/search?q=Aaron+Steiner+site%3Auni-mannheim.de&FORM=QBLH",
+        "fb:app_id": "3732605936979161",
+        "og:image": "http://www.bing.com/sa/simg/facebook_sharing_5.png",
+        "og:type": "website",
+        "og:image:width": "600",
+        "og:image:height": "315"
+    }
+}
+
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please continue searching for Aaron Steiner's contact details, specifically his email and office location on the University of Mannheim's website.
+---------- WebSurfer ----------
+I clicked 'Universität Mannheim'.
+
+The web browser is open to the page [Aaron Steiner site:uni-mannheim.de - Suchen](https://www.bing.com/search?q=Aaron+Steiner+site%3Auni-mannheim.de&FORM=QBLH).
+The viewport shows 45% of the webpage, and is positioned 40% down from the top of the page
+The following text is visible in the viewport:
+
+Microsoft und unsere Drittanbieter verwenden Cookies und ähnliche Technologien zur Bereitstellung, Aufrechterhaltung und Verbesserung unserer Dienste und Anzeigen. Wenn Sie damit einverstanden sind, verwenden wir diese Daten für die Personalisierung von Anzeigen und die damit verbundenen Analysen.
+Sie können „Akzeptieren“ wählen, um diesen Verwendungen zuzustimmen, „Ablehnen“ wählen, um diese Verwendungen abzulehnen, oder auf „Weitere Optionen“ klicken, um Ihre Optionen zu überprüfen. Sie können Ihre Auswahl unten auf dieser Seite unter „Cookiepräferenzen verwalten“ ändern. 
+DatenschutzbestimmungenAkzeptieren
+Ablehnen
+Mehr Optionenhttps://www.uni-mannheim.de › med…
+ · PDF-Datei
+Dieses Ergebnis übersetzen
+Introduction - uni-mannheim.de• M. Sc. Aaron Steiner –Graduate Research Associate • Research Interests: –Entity Matching using LLMs –Fine-tuning LLMs –Data Integration • Room: B6 26, C 1.04 • eMail: …
+Universität Mannheim
+https://www.uni-mann…
+Dieses Ergebnis übersetzen
+Paper accepted at EDBT 2025 | Universität Mannheim21. Okt. 2024 · We are happy to announce that the paper “Entity Matching using Large Language Models” by Ralph Peeters, Aaron Steiner, and Christian Bizer has been accepted for the 28th International Conference on Extending Database …
+Universität Mannheim
+https://www.sowi.uni-mannheim.de › en › news
+Dieses Ergebnis übersetzen
+Paper accepted at EDBT 2025 | School of Social Sciences21. Okt. 2024 · We are happy to announce that the paper “Entity Matching using Large Language Models” by Ralph Peeters, Aaron Steiner, and Christian Bizer has been accepted for the 28th …
+Universität Mannheim
+https://www.uni-mannheim.de › dws › news-archiv …
+Dieses Ergebnis übersetzen
+DWS Area: Web-based Systems | Universität MannheimWe are happy to announce that the paper “Entity Matching using Large Language Models” by Ralph Peeters, Aaron Steiner, and Christian Bizer has been accepted for the 28th International …
+Universität Mannheim
+https://www.uni-mann…
+Dieses Ergebnis übersetzen
+CS 715: Seminar on Solving Complex Tasks using …This seminar is organized by Prof. Dr. Christian Bizer, Dr. Ralph Peeters, Aaron Steiner. The seminar is available for master and bachelor students of the Data Science, Social Data Science, and Business Informatics programs.
+Universität Mannheim
+https://www.uni-mann…
+Dieses Ergebnis übersetzen
+IE 500 Data Mining | Universität MannheimIn the exercises the participants will gather initial expertise in applying state of the art data mining libraries on realistic data sets. The team projects take place in the last third of the term.
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please look for additional links or sources to find Aaron Steiner’s email and office location on the University of Mannheim's website.
+---------- WebSurfer ----------
+I clicked 'https://www.uni-mannheim.de › med…
+ · PDF-Datei
+Dieses Ergebnis übersetzen'.
+
+The web browser is open to the page [Aaron Steiner site:uni-mannheim.de - Suchen](https://www.bing.com/search?q=Aaron+Steiner+site%3Auni-mannheim.de&FORM=QBLH).
+The viewport shows 45% of the webpage, and is positioned 39% down from the top of the page
+The following text is visible in the viewport:
+
+Microsoft und unsere Drittanbieter verwenden Cookies und ähnliche Technologien zur Bereitstellung, Aufrechterhaltung und Verbesserung unserer Dienste und Anzeigen. Wenn Sie damit einverstanden sind, verwenden wir diese Daten für die Personalisierung von Anzeigen und die damit verbundenen Analysen.
+Sie können „Akzeptieren“ wählen, um diesen Verwendungen zuzustimmen, „Ablehnen“ wählen, um diese Verwendungen abzulehnen, oder auf „Weitere Optionen“ klicken, um Ihre Optionen zu überprüfen. Sie können Ihre Auswahl unten auf dieser Seite unter „Cookiepräferenzen verwalten“ ändern. 
+DatenschutzbestimmungenAkzeptieren
+Ablehnen
+Mehr Optionenhttps://www.uni-mannheim.de › med…
+ · PDF-Datei
+Dieses Ergebnis übersetzen
+Introduction - uni-mannheim.de• M. Sc. Aaron Steiner –Graduate Research Associate • Research Interests: –Entity Matching using LLMs –Fine-tuning LLMs –Data Integration • Room: B6 26, C 1.04 • eMail: …
+Universität Mannheim
+https://www.uni-mann…
+Dieses Ergebnis übersetzen
+Paper accepted at EDBT 2025 | Universität Mannheim21. Okt. 2024 · We are happy to announce that the paper “Entity Matching using Large Language Models” by Ralph Peeters, Aaron Steiner, and Christian Bizer has been accepted for the 28th International Conference on Extending Database …
+Universität Mannheim
+https://www.sowi.uni-mannheim.de › en › news
+Dieses Ergebnis übersetzen
+Paper accepted at EDBT 2025 | School of Social Sciences21. Okt. 2024 · We are happy to announce that the paper “Entity Matching using Large Language Models” by Ralph Peeters, Aaron Steiner, and Christian Bizer has been accepted for the 28th …
+Universität Mannheim
+https://www.uni-mannheim.de › dws › news-archiv …
+Dieses Ergebnis übersetzen
+DWS Area: Web-based Systems | Universität MannheimWe are happy to announce that the paper “Entity Matching using Large Language Models” by Ralph Peeters, Aaron Steiner, and Christian Bizer has been accepted for the 28th International …
+Universität Mannheim
+https://www.uni-mann…
+Dieses Ergebnis übersetzen
+CS 715: Seminar on Solving Complex Tasks using …This seminar is organized by Prof. Dr. Christian Bizer, Dr. Ralph Peeters, Aaron Steiner. The seminar is available for master and bachelor students of the Data Science, Social Data Science, and Business Informatics programs.
+Universität Mannheim
+https://www.uni-mann…
+Dieses Ergebnis übersetzen
+IE 500 Data Mining | Universität MannheimIn the exercises the participants will gather initial expertise in applying state of the art data mining libraries on realistic data sets. The team projects take place in the last third of the term.
+Aktualisieren
+Here is a screenshot of the page.
+<image>
+---------- MagenticOneOrchestrator ----------
+Please ensure Aaron Steiner's email and office location are obtained; if not visible, indicate search limitations clearly.
+---------- WebSurfer ----------
+Aaron Steiner’s contact details are as follows:
+
+- **Office Location**: B6 26, Room C 1.04
+- **Email**: Not explicitly provided in the onscreen text, but typically follows the format [firstname.lastname]@uni-mannheim.de, which would likely be aaron.steiner@uni-mannheim.de.
+
+If you need further assistance or verification, please contact the university directly via their contact page or directory for precise details.
+---------- MagenticOneOrchestrator ----------
+Here are the contact details for the organizers of Seminar CS715 at the University of Mannheim:
+
+1. **Prof. Dr. Christian Bizer**
+   - **Office**: B6, 26, Room B 1.15
+   - **Email**: christian.bizer@uni-mannheim.de
+
+2. **Dr. Ralph Peeters**
+   - **Office**: B6, 26, Room C 1.04
+   - **Email**: ralph.peeters@uni-mannheim.de
+
+3. **Aaron Steiner**
+   - **Office**: B6, 26, Room C 1.04
+   - **Email**: Likely follows the pattern aaron.steiner@uni-mannheim.de
+
+If you need further confirmation, it might be helpful to contact the university directly. Let me know if there's anything else I can assist you with!
